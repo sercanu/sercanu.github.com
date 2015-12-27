@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://sercanulucan.com/blog' rel='self' type='application/rss+xml'/>
+<title>
+Sercan Ulucan
+</title>
+<link>
+http://sercanulucan.com/blog
+</link>
+<description>
+anything about software development
+</description>
+<lastBuildDate>
+Sun, 27 Dec 2015 23:43:00 +0200
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+<item>
+<guid>
+http://sercanulucan.com/blog/blog/posts/2015-12-27-first-post.html
+</guid>
+<link>
+http://sercanulucan.com/blog/blog/posts/2015-12-27-first-post.html
+</link>
+<title>
+A Post
+</title>
+<description>
+&lt;h3&gt;&lt;a name=&quot;todo&quot;&gt;&lt;/a&gt;TODO&lt;/h3&gt;&lt;p&gt;some stuff happened&lt;/p&gt;
+</description>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Sun, 27 Dec 2015 00:00:00 +0200
+</pubDate>
+</item>
+</channel>
+</rss>
