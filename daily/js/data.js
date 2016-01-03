@@ -174,6 +174,7 @@ var links = [
 
 
 var queues = [ 
+{"link":"A Short History of Nearly Everything", "url":"http://www.amazon.com/A-Short-History-Nearly-Everything/dp/076790818X", "category":"book", "date":"2015-12-02", "completedOn":""},
 {"link":"Thinking, Fast and Slow", "url":"http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555", "category":"book", "date":"2015-12-01", "completedOn":""},
 {"link":"The Origins of Political Order", "url":"http://www.amazon.com/The-Origins-Political-Order-Revolution/dp/0374533229", "category":"book", "date":"2015-12-01", "completedOn":""},
 {"link":"The Man From Earth", "url":"http://www.imdb.com/title/tt0756683/", "category":"movie", "date":"2015-12-01", "completedOn":""},
