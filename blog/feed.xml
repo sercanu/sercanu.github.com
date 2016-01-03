@@ -12,29 +12,29 @@ http://sercanulucan.com/blog
 anything about software development
 </description>
 <lastBuildDate>
-Sun, 27 Dec 2015 23:43:00 +0200
+Sun, 03 Jan 2016 17:14:00 +0200
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
 <item>
 <guid>
-http://sercanulucan.com/blog/blog/posts/2015-12-27-first-post.html
+http://sercanulucan.com/blog/blog/posts/2015-12-30-tips-from-pragmatic-programmer.html
 </guid>
 <link>
-http://sercanulucan.com/blog/blog/posts/2015-12-27-first-post.html
+http://sercanulucan.com/blog/blog/posts/2015-12-30-tips-from-pragmatic-programmer.html
 </link>
 <title>
-A Post
+Tips from Pragmatic Programmer
 </title>
 <description>
-&lt;h3&gt;&lt;a name=&quot;todo&quot;&gt;&lt;/a&gt;TODO&lt;/h3&gt;&lt;p&gt;some stuff happened&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Care About Your Craft&lt;/li&gt;&lt;li&gt;Think! About Your Work&lt;/li&gt;&lt;li&gt;Provide Options, Don't Make Lame Excuses&lt;/li&gt;&lt;li&gt;Don't Live with Broken Windows&lt;/li&gt;&lt;li&gt;Be a Catalyst for Change&lt;/li&gt;&lt;li&gt;Remember the Big Picture&lt;/li&gt;&lt;li&gt;Make Quality a Requirements Issue&lt;/li&gt;&lt;li&gt;Invest Regularly in Your Knowledge Portfolio&lt;/li&gt;&lt;li&gt;Critically Analyze What You Read and Hear&lt;/li&gt;&lt;li&gt;It's Both What You Say and the Way You Say It&lt;/li&gt;&lt;li&gt;DRY—Don't Repeat Yourself&lt;/li&gt;&lt;li&gt;Make It Easy to Reuse&lt;/li&gt;&lt;li&gt;Eliminate Effects Between Unrelated Things&lt;/li&gt;&lt;li&gt;There Are No Final Decisions&lt;/li&gt;&lt;li&gt;Use Tracer Bullets to Find the Target&lt;/li&gt;&lt;li&gt;Prototype to Learn&lt;/li&gt;&lt;li&gt;Program Close to the Problem domain&lt;/li&gt;&lt;li&gt;Estimate to Avoid Surprises&lt;/li&gt;&lt;li&gt;Iterate the Schedule with the Code&lt;/li&gt;&lt;li&gt;Keep Knowledge in Plain Text&lt;/li&gt;&lt;li&gt;Use the Power of Command Shells&lt;/li&gt;&lt;li&gt;Use a Single Editor Well&lt;/li&gt;&lt;li&gt;Always Use Source Code Control&lt;/li&gt;&lt;li&gt;Fix the Problem, Not the Blame&lt;/li&gt;&lt;li&gt;Don't Panic&lt;/li&gt;&lt;li&gt;&quot;select&quot; Isn't Broken&lt;/li&gt;&lt;li&gt;Don't Assume It—Prove It&lt;/li&gt;&lt;li&gt;Learn a Text Manipulation Language&lt;/li&gt;&lt;li&gt;Write Code That Writes Code&lt;/li&gt;&lt;li&gt;You Can't Write Perfect Software&lt;/li&gt;&lt;li&gt;Design with Contracts&lt;/li&gt;&lt;li&gt;Crash Early&lt;/li&gt;&lt;li&gt;If It Can't Happen, Use Assertions to Ensure That It Won't&lt;/li&gt;&lt;li&gt;Use Exceptions for Exceptional Problems&lt;/li&gt;&lt;li&gt;Finish What You Start&lt;/li&gt;&lt;li&gt;Configure, Don't Integrate&lt;/li&gt;&lt;li&gt;Put Abstractions in Code Details in Metadata&lt;/li&gt;&lt;li&gt;Analyze Workflow to Improve Concurrency&lt;/li&gt;&lt;li&gt;Design Using Services&lt;/li&gt;&lt;li&gt;Always Design for Concurrency&lt;/li&gt;&lt;li&gt;Separate Views from Models&lt;/li&gt;&lt;li&gt;Use Blackboards to Coordinate Workflow&lt;/li&gt;&lt;li&gt;Don't Program by Coincidence&lt;/li&gt;&lt;li&gt;Estimate the Order of Your Algorithms&lt;/li&gt;&lt;li&gt;Test Your Estimates&lt;/li&gt;&lt;li&gt;Refactor Early, Refactor Often&lt;/li&gt;&lt;li&gt;Design to Test&lt;/li&gt;&lt;li&gt;Test Your Software, or Your Users Will&lt;/li&gt;&lt;li&gt;Don't Use Wizard Code You Don't Understand&lt;/li&gt;&lt;li&gt;Don't Gather Requirements—Dig for Them&lt;/li&gt;&lt;li&gt;Abstractions Live Longer than Details&lt;/li&gt;&lt;li&gt;Use a Project Glossary&lt;/li&gt;&lt;li&gt;Don't Think Outside the Box—Find the Box&lt;/li&gt;&lt;li&gt;Listen to Nagging Doubts—Start When You're Ready&lt;/li&gt;&lt;li&gt;Some Things Are Better Done than Described&lt;/li&gt;&lt;li&gt;Don't Be a Slave to Formal Methods&lt;/li&gt;&lt;li&gt;Expensive Too Do Not Produce Better Designs&lt;/li&gt;&lt;li&gt;Organize Around Functionality, Not Job Functions&lt;/li&gt;&lt;li&gt;Don't Use Manual Procedures&lt;/li&gt;&lt;li&gt;Test Early. Test Often. Test Automatically.&lt;/li&gt;&lt;li&gt;Coding Ain't Done 'Til All the Tests Run&lt;/li&gt;&lt;li&gt;Use Saboteurs to Test Your Testing&lt;/li&gt;&lt;li&gt;Test State Coverage, Not Code Coverage&lt;/li&gt;&lt;li&gt;Find Bugs Once&lt;/li&gt;&lt;li&gt;Treat English as Just Another Programming Language&lt;/li&gt;&lt;li&gt;Build Documentation In, Don't Bolt It On&lt;/li&gt;&lt;li&gt;Gently Exceed * Your Users' ExpectationsSign Your Work&lt;/li&gt;&lt;/ul&gt;
 </description>
 <enclosure>
 
 </enclosure>
 <pubDate>
-Sun, 27 Dec 2015 00:00:00 +0200
+Wed, 30 Dec 2015 00:00:00 +0200
 </pubDate>
 </item>
 </channel>

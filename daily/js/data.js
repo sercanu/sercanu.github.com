@@ -1,6 +1,6 @@
 var links = [ 
 {"link":"none", "url":"", "category":"general", "date":"2000-01-01"},
-{"link":"none", "url":"", "category":"general", "date":"2000-01-01"},
+{"link":"Four color theorem", "url":"https://en.wikipedia.org/wiki/Four_color_theorem", "category":"general", "date":"2015-12-31"},
 {"link":"History of Bosphorus", "url":"https://en.wikipedia.org/wiki/Bosphorus", "category":"general", "date":"2015-12-26"},
 {"link":"criticalpast.com", "url":"http://www.criticalpast.com/", "category":"useful", "date":"2015-12-31"},
 {"link":"World Migration Map", "url":"http://www.iom.int/world-migration", "category":"general", "date":"2015-12-26"},
